@@ -5,6 +5,8 @@ import java.util.Stack;
 
 public class SimpleStackImpl implements SimpleStack {
 
+    /*Commentaitre répondant à l'exigence*/
+
     Stack<Object> wrappedStack = new Stack<Object>();
 
     public boolean isEmpty() {
