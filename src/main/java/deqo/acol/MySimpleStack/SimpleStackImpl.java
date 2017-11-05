@@ -7,6 +7,8 @@ public class SimpleStackImpl implements SimpleStack {
 
     /*Commentaitre répondant à l'exigence*/
 
+    /*Autre commentaire exigence 2*/
+
     Stack<Object> wrappedStack = new Stack<Object>();
 
     public boolean isEmpty() {
